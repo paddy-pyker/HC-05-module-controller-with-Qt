@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/views">
+        <file alias="main.qml">views/main.qml</file>
+        <file alias="SplashScreen.qml">views/SplashScreen.qml</file>
+        <file alias="PairScreen.qml">views/PairScreen.qml</file>
+        <file alias="MyRoom.qml">views/MyRoom.qml</file>
+        <file alias="Light.qml">views/Light.qml</file>
+        <file alias="Fan.qml">views/Fan.qml</file>
+    </qresource>
+</RCC>

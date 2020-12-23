@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file alias="qmldir">assets/qmldir</file>
+        <file alias="Style.qml">assets/Style.qml</file>
+        <file alias="fontawesome.ttf">assets/fontawesome-webfont.ttf</file>
+        <file alias="default.png">assets/default.png</file>
+        <file alias="download.png">assets/download.png</file>
+        <file alias="corsiva.ttf">assets/911Fonts.com_MonotypeCorsiva_Regular_-_911fonts.com_fonts_gyWJ.ttf</file>
+        <file alias="splashImage.png">assets/splashImage.png</file>
+        <file alias="fan.png">assets/fan.png</file>
+        <file alias="light.png">assets/light.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+module components
+TitleBar 1.0 TitleBar.qml
+ContextMenu 1.0 ContextMenu.qml
+Header 1.0 Header.qml
+FoundDevicesDelegate 1.0 FoundDevicesDelegate.qml
+ErrorDialog 1.0 ErrorDialog.qml
+BluetoothCheck 1.0 BluetoothCheck.qml
+ExitDialog.qml 1.0 ExitDialog.qml
+

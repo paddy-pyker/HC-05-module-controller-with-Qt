@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/components">
+        <file alias="qmldir">components/qmldir</file>
+        <file alias="TitleBar.qml">components/TitleBar.qml</file>
+        <file alias="ContextMenu.qml">components/ContextMenu.qml</file>
+        <file alias="Header.qml">components/Header.qml</file>
+        <file alias="FoundDevicesDelegate.qml">components/FoundDevicesDelegate.qml</file>
+        <file alias="ConnectingDialog.qml">components/ConnectingDialog.qml</file>
+        <file alias="ErrorDialog.qml">components/ErrorDialog.qml</file>
+        <file alias="BluetoothCheck.qml">components/BluetoothCheck.qml</file>
+        <file alias="ExitDialog.qml">components/ExitDialog.qml</file>
+    </qresource>
+</RCC>
